@@ -1,0 +1,5 @@
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:881:22:LL_GPIO_SetOutputPin	1
+../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_gpio.h:910:22:LL_GPIO_ResetOutputPin	1
+../SPI_SLAVE/slave_reg.c:10:6:turn_on_led	5
+../SPI_SLAVE/slave_reg.c:28:6:turn_of_led	5
+../SPI_SLAVE/slave_reg.c:46:6:write_to_mem	1
